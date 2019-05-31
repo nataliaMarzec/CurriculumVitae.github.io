@@ -1,0 +1,2 @@
+ https://nitratine.net/blog/post/github-badges/  es un badges que se agregar en el readme.md
+ 
