@@ -1,5 +1,12 @@
-# CurriculumVitae.github.io
+# CurriculumVitae.github.io  En proceso de desarrollo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
 Curriculum Vitae (datos básicos)
+
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/gitterHQ/gitter)
+
+[![Gitter chat](https://badges.gitter.im/nataliaMarzec/CurriculumVitae.io)](https://gitter.im/nataliamarzec/cv)
+
+ejemplo:
+[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # The Cayman theme
 

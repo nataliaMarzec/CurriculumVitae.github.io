@@ -1,2 +1,8 @@
+Para investigar:
+
+
  https://nitratine.net/blog/post/github-badges/  es un badges que se agregar en el readme.md
  
+ https://voragine.net/cultura-libre/badges-digitales-reconocimiento-y-certificacion-de-aprendizaje-para-ciudad-escuela
+ 
+https://blog.gitter.im/2014/01/27/badgers/
