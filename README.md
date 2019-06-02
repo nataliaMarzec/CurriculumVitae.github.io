@@ -1,12 +1,13 @@
-# CurriculumVitae.github.io  En proceso de desarrollo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1
+# CurriculumVitae.github.io  En proceso de desarrollo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Curriculum Vitae (datos básicos)
 
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/gitterHQ/gitter)
+**Contacto:
 
-[![Gitter chat](https://badges.gitter.im/nataliaMarzec/CurriculumVitae.io)](https://gitter.im/nataliamarzec/cv)
+[![Gitter](https://badges.gitter.im/ntCurriculumVitae/community.svg)](https://gitter.im/ntCurriculumVitae/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-ejemplo:
-[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+https://gitter.im/ntCurriculumVitae/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+
 
 # The Cayman theme
 

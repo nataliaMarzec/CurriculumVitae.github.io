@@ -2,6 +2,8 @@
 
 [editor on GitHub](https://github.com/nataliaMarzec/CurriculumVitae.io/edit/master/index.md)
 
+Realización de curriculum vitae.
+
 ### Capacidades adquidas:
 
 La vanguardia
