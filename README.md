@@ -7,7 +7,7 @@ Curriculum Vitae (datos básicos)
 [![Gitter](https://badges.gitter.im/ntCurriculumVitae/community.svg)](https://gitter.im/ntCurriculumVitae/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 
-[![Gmail](natimarzec708@gmail.com.svg)](natimarzec708@gmail.com?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Email](natimarzec708@gmail.com.png)](natimarzec708@gmail.com)
 
 [Page curriculum vitae](https://nataliamarzec.github.io/CurriculumVitae/) 
 
