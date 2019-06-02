@@ -9,6 +9,12 @@ Curriculum Vitae (datos básicos)
 
 <natimarzec708@gmail.com>
 
+**Email:** [groupbit.sarmiento@gmail.com](mailto:groupbit.sarmiento@gmail.com) 
+ 
+[**GitHub**](https://github.com/groupbit/groupbit.github.io) 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26408.921654570855!2d-59.808093682203804!3d-34.16897204888143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bbd82dad9c52d5%3A0xd24e4e67a7cde5f6!2sCap.+Sarmiento%2C+Buenos+Aires!5e0!3m2!1ses!2sar!4v1558568106715!5m2!1ses!2sar" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
