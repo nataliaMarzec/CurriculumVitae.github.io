@@ -9,7 +9,7 @@ Curriculum Vitae (datos básicos)
 
 <natimarzec708@gmail.com>
 
-[https://nataliamarzec.github.io/CurriculumVitae/](https://nataliamarzec.github.io/CurriculumVitae/) 
+[Page curriculum vitae](https://nataliamarzec.github.io/CurriculumVitae/) 
 
 
 
