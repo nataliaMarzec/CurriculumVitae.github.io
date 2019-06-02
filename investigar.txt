@@ -16,4 +16,6 @@ https://shields.io/category/chat
 
 ##reemplazo de github: lgtm
 
+##para trabajar con github y el espacio de trabajo: https://github.com/badges/shields
+
 
