@@ -2,14 +2,12 @@
 
 Curriculum Vitae (datos básicos)
 
-**Contacto:
+**Contacto:**
 
 [![Gitter](https://badges.gitter.im/ntCurriculumVitae/community.svg)](https://gitter.im/ntCurriculumVitae/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-https://gitter.im/ntCurriculumVitae/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link
 
-
-# The Cayman theme
+<natimarzec708@gmail.com>
 
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
