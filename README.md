@@ -9,7 +9,7 @@ Curriculum Vitae (datos básicos)
 
 <natimarzec708@gmail.com>
 
-**Page:** [https://nataliamarzec.github.io/CurriculumVitae/](mailto:groupbit.sarmiento@gmail.com) 
+[https://nataliamarzec.github.io/CurriculumVitae/](https://nataliamarzec.github.io/CurriculumVitae/) 
 
 
 
